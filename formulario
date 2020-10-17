@@ -1,0 +1,10 @@
+<html>
+
+<head></head>
+<title>Introduzca sus datos de acceso<title>
+<body>
+<P>Usuario:    <INPUT type=text name=login> 
+<P>Contraseña: <INPUT type=password name=password> 
+</body>
+
+</html>
